@@ -1,0 +1,64 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11898</md:content-id>
+  <md:title>Newton's Laws</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>b707e632-b99f-40b9-835a-6d198051c4ff</md:uuid>
+<md:slug>newton-s-laws</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m57954"/>
+        
+      
+    
+    
+      <col:module document="m57723"/>
+        
+      
+    
+    
+      <col:module document="m57946"/>
+        
+      
+    
+    
+      <col:module document="m57948"/>
+        
+      
+    
+    
+      <col:module document="m57949"/>
+        
+      
+    
+    
+      <col:module document="m57950"/>
+        
+      
+    
+    
+      <col:module document="m57951"/>
+        
+      
+    
+    
+      <col:module document="m57952"/>
+        
+      
+    
+  </col:content>
+</col:collection>
